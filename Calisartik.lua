@@ -5,7 +5,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/JollyHub-ez/Yeni2/mai
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JollyHub-ez/Yeni3/main/Bypasses.lua%20(2).txt", true))()
 
 -- Dex with CloneRef Support (made as global)
-getgenv().Bypassed_Dex = game:GetObjects("rbxassetid://96892557833812")[1]
+getgenv().Bypassed_Dex = game:GetObjects("rbxassetid://9352453730")[1]
 
 local charset = {}
 for i = 48,  57 do table.insert(charset, string.char(i)) end
